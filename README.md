@@ -1,2 +1,2 @@
-# uniStudying
+# ITMOStudying
 homeworks and labworks
